@@ -1,0 +1,9 @@
+Dependencies for Project 'arm', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6210000::V6.21::ARMCLANG
+F (.\hello.c)(0x65FAA594)()
+F (C:/Users/hp/AppData/Local/Arm/Packs/Keil/ARM_Compiler/1.7.2/Source/EventRecorder.c)(0x6242BAC4)()
+F (C:/Users/hp/AppData/Local/Arm/Packs/Keil/ARM_Compiler/1.7.2/Source/retarget_io.c)(0x584E9A3E)()
+F (RTE/Compiler/EventRecorderConf.h)(0x5E6F996C)()
+F (C:/Users/hp/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/FileSystem/Lib/ARM/FS_Dbg_LFN_CM0_L.lib)(0x636DEEE0)()
+F (RTE/File_System/FS_Config.c)(0x5D109CA8)()
+F (RTE/File_System/FS_Debug.c)(0x5D146D34)()
